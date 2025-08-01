@@ -89,16 +89,7 @@ Node.js, WebSocket, HTTP/TCP协议, SQL 数据库
 
 ---
 
-### 华中电力交易电子沙盘
-**[项目截图](https://dawn-md-image.oss-cn-chengdu.aliyuncs.com/%E7%B3%BB%E7%BB%9F%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg)**
 
-**个人职责：** 在该项目担任前端开发角色，主导项目前端开发工作，负责项目前端框架搭建，资产复用，接口设计。
-
-**项目描述：** 华中电力交易电子沙盘是一个3D可视化的电力交易仿真平台，通过三维场景展示电力交易全流程，包括发电侧、输电网、配电网、用电侧的实时数据可视化。项目采用WebGL技术构建3D场景，支持多视角观察、实时数据更新、交互式操作等功能，为电力交易提供直观的可视化分析工具。
-
-**技术：** Vue.js 3.x, Three.js, WebGL, TypeScript, Blender, ECharts, WebSocket, CSS3 Animation
-
----
 
 ## 💡 自我评价
 
