@@ -31,7 +31,8 @@ jobs:
       - name: Upload static site
         uses: actions/upload-pages-artifact@v4
         with:
-          path: .
+          # Temporary protection-period switch. Restore to "." to publish the portfolio again.
+          path: paused
 
       - name: Deploy to GitHub Pages
         id: deployment
